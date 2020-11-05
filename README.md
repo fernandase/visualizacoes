@@ -5,7 +5,7 @@ Repositório com visualizações utilizando o pacote ggplot2:
 
   - Dataset **storms** do pacote *dplyr*: **data-storms.md**;
   - Pacote *gtrends* (Google Trends) para visualizar as buscas
-    relacionadas ao Brasil;
+    relacionadas ao Brasil: **gtrends-brasil.md**;
 
 <img src="https://www.r-project.org/logo/Rlogo.svg" style="float:left; margin:10px 20px; display:inline-block" width="170" height="auto"/>
 
